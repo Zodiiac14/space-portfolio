@@ -11,6 +11,7 @@ function loadTex(url){
   })
 }
 
+
 export default function SpaceBackground(){
   const mountRef = useRef(null)
 
